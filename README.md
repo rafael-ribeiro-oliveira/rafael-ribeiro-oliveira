@@ -4,7 +4,7 @@
     Hey, what's up? I am 
     <a href="https://www.linkedin.com/in/marcoantpimenta/">Rafael Ribeiro Oliveira 🌐</a>
   </h1>
-    <IMG height="400em" align=left SRC="programming.svg" alt="developer"/>
+    <IMG height="400em" align=left SRC="dev.svg" alt="developer"/>
   
 
   
