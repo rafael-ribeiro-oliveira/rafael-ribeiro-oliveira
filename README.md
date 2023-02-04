@@ -25,13 +25,11 @@
   <p align="center">
     💻I'm a software developer💻
     </p>
-  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src=https://skillicons.dev/icons?i=spring,js,java,kotlin,html,css,go,ts,docker,nodejs,postgres,mysql,heroku,idea,vscode,postman&perline=16 />
+    </a>
+  </p>
 </div><br>
 
 <div align="center">
