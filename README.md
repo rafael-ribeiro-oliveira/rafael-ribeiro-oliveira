@@ -1,16 +1,51 @@
-### Hi there 👋
+<div>
+  
+  <h1 align="center">
+    Hey, what's up? I am 
+    <a href="https://www.linkedin.com/in/marcoantpimenta/">Rafael Ribeiro Oliveira 🌐</a>
+  </h1>
+    <IMG height="400em" align=left SRC="programming.svg" alt="developer"/>
+  
 
-<!--
-**rafael-ribeiro-oliveira/rafael-ribeiro-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/rafael-ribeiro-oliveira">
+    <img height="180em" width="381em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafael-ribeiro-oliveira&&show_icons=true&theme=tokyonight"/>
+    <br/>
+    <img height="180em" width="381em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafael-ribeiro-oliveira&&layout=compact&count_private=true&show_icons=true&theme=tokyonight&langs_count=8"/>
+  </a>
+  
+</div>
+  <p align="center">
+  <br>
+    </p>
+<div align="center" valign="top"><br>
+  <p align="center">
+    💻I'm a software developer💻
+    </p>
+  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+  <img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+</div><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <a href="https://www.instagram.com/rafariberoliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-oliveira-471808192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="rafaeloliver789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+
+![Snake animation](https://github.com/rafael-ribeiro-oliveira/rafael-ribeiro-oliveira/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+</div>
